@@ -575,9 +575,9 @@ core:
   group:
     admin: Admin
     admins: Admins
-    guest: Guest
-    guests: Guests
-    member: Member
-    members: Members
+    guest: Gost
+    guests: Gosti
+    member: Član
+    members: Članovi
     mod: Mod
     mods: Mods
